@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 terraform.tfstate
-terraform.tfstate.*.backup
+terraform.tfstate.backup
 .terraform
 tfplan
